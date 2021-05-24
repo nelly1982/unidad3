@@ -1,0 +1,11 @@
+.main_header{
+width: 100%;
+height: 110px;
+z-index: 101;
+background: rgb(185, 112, 112);
+font-size: 22px;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+margin-top: -8px;
+
+}

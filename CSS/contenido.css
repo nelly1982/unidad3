@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    background:rgb(185, 53, 60);
+}
+.bloquetitulo{
+font-size: 15px;
+letter-spacing: 1px;
+margin:0;
+padding-top: 30px;
+text-align: center;
+font-family:cursive;
+color: rgb(216, 193, 193);
+}
+.parrafoeditable {
+
+    letter-spacing: 1px;
+    font-family: cursive;
+    color: cornsilk;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 35px;
+    
+}
+    
+
